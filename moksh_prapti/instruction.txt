@@ -1,0 +1,4 @@
+first command with python 2
+python2 ./server/smtp_server.py
+second in seperate terminal python 3
+python3 ./client/client.py

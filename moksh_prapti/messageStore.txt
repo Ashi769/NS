@@ -1,0 +1,25 @@
+(dp0
+S'messages'
+p1
+(lp2
+(dp3
+S'to'
+p4
+(lp5
+S'shubhamsoni@mail.com'
+p6
+asS'time'
+p7
+F1603909329.274135
+sS'from'
+p8
+S'patelashish769@mail.com'
+p9
+sS'id'
+p10
+I1
+sS'data'
+p11
+S'To: "shubham" <shubhamsoni@mail.com>\nFrom: "Ashish" <patelashish769@mail.com>\nSubject: Sub\nMIME-Version: 1.0\nContent-Type: application/pkcs7-mime; smime-type=enveloped-data; name=smime.p7m\nContent-Transfer-Encoding: base64\nContent-Disposition: attachment; filename=smime.p7m\n\nMIIB0AYJKoZIhvcNAQcDoIIBwTCCAb0CAQAxggFIMIIBRAIBADCBrjCBlTELMAkG\nA1UEBhMCQVUxEzARBgNVBAgMClNvbWUtU3RhdGUxDTALBgNVBAcMBGNpdHkxITAf\nBgNVBAoMGEludGVybmV0IFdpZGdpdHMgUHR5IEx0ZDEQMA4GA1UECwwHc2VjdGlv\nbjEOMAwGA1UEAwwFQWtoaWwxHTAbBgkqhkiG9w0BCQEWDmFraGlsQG1haWwuY29t\nAhRhgIMjDDMTsb01a8Z1iYXQqskO0jALBgkqhkiG9w0BAQEEgYC/e6fIwByrJ2hG\nLKLbfffk94TAMm9RuEFLlEcxAQdFqNmahh0xuDM2VWCM6URymz+N6iIOwxQ5eGqO\n7mI066taVfDB3nYyUAb2suxny2A+mMYxUM/DYsPCLNXVtWEgypDIeFWLnGYzQA6d\nd0NgCtHJBQp9qLn3Jnpfg4w5UCCTuDBsBgkqhkiG9w0BBwEwHQYJYIZIAWUDBAEq\nBBBCHiEgvujV+gORz6J2uYMYgEBG5FdTk1siIaWDcvytTpBT/hLYNYqD/lBRwWAx\nFFaVV+x9efI7jiAQ8dATrotIitSRjKpdUe5W973QUi6LcBWH'
+p12
+sas.
